@@ -1,5 +1,9 @@
-#Face Verification
+Face Verification
+This project uses DeepFace to verify the uploaded photo of a person's face against their real face and updates relevant data to Firebase Realtime Database.
 
-It use deepface to verify the uploaded photo face and real face of the person and update some data to firebase realtime database
-
-Tech: React.js, Node.js, Flask,Firebase(realtime database),Deepface
+Technologies Used
+  -React.js
+  -Node.js
+  -Flask
+  -Firebase (Realtime Database)
+  -DeepFace
